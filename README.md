@@ -1,6 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -21,7 +18,6 @@
 ## About The Project
 Authentication application.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -30,7 +26,3 @@ Authentication application.
 <ol>
 <li>Python</li>
 </ol>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
